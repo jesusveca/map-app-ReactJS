@@ -33,7 +33,7 @@ For the project to build, **these files must exist with exact filenames**:
 
 
 ## How to run
-### git clone https://github.com/jesusveca/map-app-ReactJS.git
-### npm start
+* `git clone https://github.com/jesusveca/map-app-ReactJS.git`
+* `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

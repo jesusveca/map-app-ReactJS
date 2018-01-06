@@ -7,7 +7,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 
 ```
-map-app-ReactJS/
+map-app/
   README.md
   node_modules/
   package.json
